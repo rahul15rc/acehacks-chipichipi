@@ -1,2 +1,3 @@
-#DeliverEase
-#A platform facliltating smooth delivery experience.
+# **DeliverEase**
+
+A platform facliltating smooth delivery experience.
